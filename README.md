@@ -23,7 +23,6 @@ Don't hesitate to reach out to me for collaborations and projects.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"  width="40" height="40"/>
 <!-- Redux -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40"/>
-<br>
 <!--node JS  -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="40" height="40" /> 
 <!-- express -->
@@ -34,9 +33,6 @@ Don't hesitate to reach out to me for collaborations and projects.
 <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg"  width="40" height="40"/>
 <!-- postgres -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="40" height="40" /> 
-<!-- mongoDB -->
-<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="40" height="40" /> 
-<br>
 <!-- git -->
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <!-- npm -->
@@ -49,14 +45,43 @@ Don't hesitate to reach out to me for collaborations and projects.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" width="40" height="40"/> 
 <!-- Bootstrap -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
-<!-- Figma -->
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-<br>
 <!-- Jest -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40"/> 
 <!-- Mocha Chai -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" width="40" height="40" />
 <!-- storybook -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg"  width="40" height="40"/>
-  </p>
+</p>
+</br>
+
+  
+### Next Tech on My List 
+<p>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />               
+</p>         
+</br>
+
+## My Github Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=catuchi&show_icons=true&theme=aura_dark)]([https://github.com/catuchi])
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catuchi&layout=compact&theme=aura_dark)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/catuchi))
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=catuchi&theme=monokai-metallian)]([https://github.com/catuchi])
+
+</br>
+
+## Connect With Me
+
+<p >
+<a href="https://www.linkedin.com/in/chibu-atuchi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  width="40" height="40" /></a>
+<!-- <a href="http://yuriyang.me" target="blank"><img align="center" src="https://www.svgrepo.com/show/144579/browser.svg" alt="portfolio" height="40" width="40" /></a> -->
+</p>
+
 </div>
