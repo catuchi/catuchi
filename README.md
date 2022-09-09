@@ -51,6 +51,8 @@ Don't hesitate to reach out to me for collaborations and projects.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" width="40" height="40" />
 <!-- storybook -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg"  width="40" height="40"/>
+<!-- GraphQL -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" width="40" height="40" />        
 </p>
 </br>
 
