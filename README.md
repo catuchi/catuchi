@@ -88,8 +88,8 @@ Don't hesitate to reach out to me for collaborations and projects.
 
 <p >
 <a href="https://www.linkedin.com/in/chibu-atuchi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  width="40" height="40" /></a>
-<a href="https://chibu-atuchi.netlify.app/" target="blank"><img align="center" src="https://www.svgrepo.com/show/144579/browser.svg" alt="portfolio" height="40" width="40" /></a>
-<a href="https://chibu-atuchi.netlify.app/" target="blank"><img align="center" src="https://www.svgrepo.com/show/144579/browser.svg" alt="portfolio" height="40" width="40" /></a>
+<!-- <a href="https://chibu-atuchi.netlify.app/" target="blank"><img align="center" src="https://www.svgrepo.com/show/144579/browser.svg" alt="portfolio" height="40" width="40" /></a> -->
+<a href="https://chibu-atuchi.netlify.app/" target="blank"><img align="center" src="https://www.svgrepo.com/show/152025/portfolio.svg" alt="portfolio" height="40" width="40" /></a>
 </p>
 
 </div>
