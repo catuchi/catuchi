@@ -55,27 +55,27 @@ Don't hesitate to reach out to me for collaborations and projects.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" width="40" height="40" />
 <!-- Firebase -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="40" height="40" />
+<!-- MongoDB -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />
 </p>
 </br>
 
   
 ### Next Tech on My List 
 <p>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />               
 </p>         
 </br>
 
 ## My Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=catuchi&show_icons=true&theme=aura_dark)]([https://github.com/catuchi])
+[![Chibu's GitHub stats](https://github-readme-stats.vercel.app/api?username=catuchi&show_icons=true&theme=aura_dark)]([https://github.com/catuchi])
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catuchi&layout=compact&theme=aura_dark)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/catuchi))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catuchi&layout=compact&theme=aura_dark)]([https://github.com/catuchi/github-readme-stats](https://github.com/catuchi))
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=catuchi&theme=monokai-metallian)]([https://github.com/catuchi])
 
