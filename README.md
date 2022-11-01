@@ -38,7 +38,9 @@ Don't hesitate to reach out to me for collaborations and projects.
 <!-- Netlify -->
 <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg"  width="40" height="40"/>
 <!-- postgres -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="40" height="40" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="40" height="40" />
+<!-- sqlite -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" />
 <!-- git -->
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <!-- npm -->
