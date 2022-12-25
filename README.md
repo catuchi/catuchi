@@ -4,8 +4,7 @@
 </br>
 </br>
 
-I'm a recent graduate of Lighthouse Labs Web Dev bootcamp, with a background in Civil Engineering and project management. Always curious and eager to learn more about development.
-Don't hesitate to reach out to me for collaborations and projects.
+I love to code.
 
 </br>
 
