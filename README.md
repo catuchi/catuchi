@@ -6,18 +6,6 @@
 
 I love to code.
 
-Technology Stack: 
-
-Web Development:
- - Languages: HTML, CSS, SCSS/SASS, JavaScript, TypeScript, Python, Ruby
- - Frameworks & Libraries: React, Angular, Django, Rails, Redux, Express, Node.js, Material UI, 
- Bootstrap, jQuery, EJS, Ajax, GraphQL
- - Systems & Databases: PostgreSQL, MongoDB, MySQL, Firebase, SQLite3, Git, Linux, Bash
- - Testing: Jest, Storybook, Cypress, Mocha & Chai
- - Container: Docker
-
-</br>
-
 ## Connect With Me
 
 <p >
