@@ -6,14 +6,6 @@
 
 I love to code.
 
-## Connect With Me
-
-<p >
-<a href="https://www.linkedin.com/in/chibu-atuchi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  width="40" height="40" /></a>
-<a href="https://resume.creddle.io/resume/9t4fvqv171v" target="blank"><img align="center" src="https://www.svgrepo.com/show/22209/file.svg" alt="resume" height="40" width="40" /></a>
-<a href="https://chibu-atuchi.netlify.app/" target="blank"><img align="center" src="https://www.svgrepo.com/show/152025/portfolio.svg" alt="portfolio" height="40" width="40" /></a>
-</p>
-
 </br>
 
 ## Tech Stack
